@@ -1,0 +1,6 @@
+{
+  "name": "Day Draft",
+  "description": "Plan Tomorrow. Review Today. Build Your Future.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
